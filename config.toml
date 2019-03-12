@@ -13,7 +13,7 @@ theme = "hallo"
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:s2112201@ipc.ac.nz"
+        url = "mailto:samhunt.dev@gmail.com"
 
     [[params.links]]
         icon = "github"
