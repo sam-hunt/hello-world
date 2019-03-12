@@ -1,0 +1,26 @@
+baseURL = "https://samhunt.dev/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Sam Hunt"
+theme = "hallo"
+
+[Author]
+    name = "Sam Hunt"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:s2112201@ipc.ac.nz"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/sam-hunt"
+
+    [params.colors]
+        background = "#81c6ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
