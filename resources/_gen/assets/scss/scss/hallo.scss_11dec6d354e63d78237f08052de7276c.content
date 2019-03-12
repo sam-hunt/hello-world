@@ -1,6 +1,6 @@
 html,
 body {
-  color: #edf7ff;
+  color: #606060;
   margin: 1rem;
   padding: 0; }
 
@@ -10,15 +10,15 @@ html {
   overflow-y: auto; }
 
 body {
-  background-color: #81c6ff; }
+  background-color: #222; }
 
 a {
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
-  color: #edf7ff; }
+  color: #606060; }
   a:hover {
-    color: #ffba82; }
+    color: #cb9eff; }
 
 h1 {
   font-size: 9rem; }
@@ -29,7 +29,7 @@ h2 {
 
 img.portrait {
   border-radius: 50%;
-  border: 10px solid #edf7ff;
+  border: 10px solid #606060;
   margin: 2em 3em;
   width: 300px;
   height: 300px; }
