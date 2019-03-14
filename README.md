@@ -1,4 +1,4 @@
-# Hello World
+# Hello World [![Build Status](https://travis-ci.org/sam-hunt/hello-world.svg?branch=master)](https://travis-ci.org/sam-hunt/hello-world)
 A static website for public introduction.
 
 ![screenshot](static/images/readme.png)
