@@ -13,5 +13,9 @@ RUN dpkg -i hugo_extended_0.54.0_Linux-64bit.deb
 COPY ./ /usr/share/hello-world
 WORKDIR /usr/share/hello-world
 
+# Ensure hugo required folders exist
+RUN if [ -d "./content/" ]; then mkdir content fi
+RUN if [ -d "./data/" ]; then mkdir data fi
+
 # Run hugo in high performance web server mode
 ENTRYPOINT [ "hugo", "server", "--bind=0.0.0.0", "--port=80"]
