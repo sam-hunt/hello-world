@@ -8,6 +8,7 @@ theme = "hallo"
     name = "Sam Hunt"
 
 [params]
+    greeting = "Hello."
 
     [[params.links]]
         iconset = "fas"
