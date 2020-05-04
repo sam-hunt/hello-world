@@ -1,5 +1,5 @@
 # Hello World [![Build Status](https://travis-ci.org/sam-hunt/hello-world.svg?branch=master)](https://travis-ci.org/sam-hunt/hello-world)
-A static website for [samhunt.dev](https://samhunt.dev)
+A static website for [samhunt.dev](https://samhunt.dev) (Superceded by [hello-world-2](https://github.com/sam-hunt/hello-world-2))
 
 ![screenshot](static/images/readme.png)
 
